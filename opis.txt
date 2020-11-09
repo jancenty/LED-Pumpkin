@@ -1,0 +1,1 @@
+A simple glowing pumpkin layout, just right for Halloween. The system reacts to light, the darker the LEDs shine brighter.
